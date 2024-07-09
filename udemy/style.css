@@ -1,0 +1,31 @@
+.nav{
+    background-color: yellow;
+    font-size: larger;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    color: beige;
+    
+
+}
+.nav a {
+   text-decoration:line-through;
+    margin:10px;
+    color: rebeccapurple;
+    
+   
+
+}
+.a :hover{
+    background-color: black;
+    color: blueviolet;
+}
+.footer :hover{
+    background-color: blueviolet;
+    color: yellow;
+}
+.main{
+    width: 80%;
+    margin: 0 auto;
+    padding-left: 0px;
+}
